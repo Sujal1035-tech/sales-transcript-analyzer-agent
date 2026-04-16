@@ -11,8 +11,6 @@ The analyzer uses Google Gemini to interpret the transcript, automatically ident
 - **Comprehensive Analysis**: Provides a structured summary, identifies customer objections, captures agent resolutions, and rates the call on a scale of 1-5.
 - **Multilingual Support**: Specifically optimized to handle the nuances of Hindi and Hinglish sales dialogues.
 
-## Getting Started
-
 
 ## Project Structure
 
