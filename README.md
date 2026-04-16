@@ -19,6 +19,8 @@ The analyzer uses Google Gemini to interpret the transcript, automatically ident
 - `src/preprocessor.py`: Handles data cleaning and dialogue formatting.
 - `src/analyzer.py`: Manages communication with the Gemini API.
 - `src/config.py`: Contains API configurations and system prompts.
+- `src/logger.py`: Handles logging.
+- `src/processor.py`: Handles processing.
 - `test_one.py`: A demonstration script for individual transcript testing.
 
 ### Prerequisites
